@@ -1,8 +1,7 @@
 ### THE DOCUMENT OBJECT MODEL (DOM)
 A collection of objects in the computer's memory that represent the HTML
-elements that define a web page
-It provides the ability to analyze and change the document being presented to
-the user
+elements that define a web page. It provides the ability to analyze and change
+the document being presented to the user.
 
 As the DOM changes, what the user sees or reads also changes
 
